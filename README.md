@@ -1,38 +1,27 @@
-# motion identify
+# 健身管家
 
 #### 介绍
-基于mediapipe和opencv构建的健身动作检测程序，检测范围包括仰卧、俯卧、深蹲、引体、哑铃右侧屈伸、哑铃两侧屈伸和哑铃向上推举动作。 
+基于mediapipe、opencv、PyQt5构建的健身动作检测程序，检测范围包括仰卧、俯卧、深蹲、引体、哑铃右侧屈伸、哑铃两侧屈伸和哑铃向上推举动作。 
 
 
 #### 软件架构
-软件架构说明
+1. 控制台模块
+2. 哑铃模块
+3. 俯卧撑、仰卧起坐、深蹲、引体向上模块
 
 
-#### 安装教程
+#### 安装教程与使用环境
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  Windows10及以上版本的PC
+2. 基于3.10版本的python
+3. IDE使用pycharm
+4. 文件中安装opencv及mediapipe-python解释器
+5. 文件中安装PyQt5及pandas解释器
 
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
 
 #### 参与贡献
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+成员：李傲、张泽轩、侯俊丽、邢广威、常文艺
 
 
-#### 特技
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
